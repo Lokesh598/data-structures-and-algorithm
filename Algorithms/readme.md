@@ -4,3 +4,4 @@
 - devide and conqure
 - greedy
 - dynamic programming
+- backtracking
