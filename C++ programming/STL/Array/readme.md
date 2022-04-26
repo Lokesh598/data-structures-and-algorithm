@@ -1,5 +1,5 @@
 # Array
-
+find more resource from here ➡️ https://iq.opengenus.org/array-in-cpp-stl/
 array are types: 
 - static sized array
 - dynamic sized array
