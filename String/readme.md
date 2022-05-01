@@ -12,5 +12,9 @@ using characters of array
 include string library
 
 1. string str = "hello world";
+
+we can define blanck string
+
+1. string temp = "";
 ```
 
