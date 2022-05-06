@@ -107,7 +107,7 @@ int main() {
     int n, num;
     cin>> n;
     node *head, *tail;
-    head = tail = new node(num);
+    head = tail = new node(0);
     for(int i = 0; i < n; i++){
         cin>> num;
         tail->next = new node(num);
