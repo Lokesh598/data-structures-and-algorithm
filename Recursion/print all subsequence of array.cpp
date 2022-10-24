@@ -1,4 +1,4 @@
-printSub(int ind, vector<int> &ds, arr[], int n) {
+void printSub(int ind, vector<int> &ds, arr[], int n) {
   
   if(ind == n) {
     for(auto it : ds) {
