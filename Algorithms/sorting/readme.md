@@ -14,8 +14,8 @@
             quickSort(arr, pi + 1, high); // After pi
         }
     }
-```
-```
+cpp
+
   ## Insertion Sort
   
       this algorithm comaparison based algorithm. here is gurantee that is largest index should have largest value.
@@ -45,4 +45,4 @@
         insert(arr, n);
         insertionSort(arr, n-1);
     }
- ```cpp
+ cpp
