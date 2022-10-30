@@ -15,8 +15,8 @@
         }
     }
 ```
+  ## Insertion Sort
   
-   ## Insertion Sort
       this algorithm comaparison based algorithm. here is gurantee that is largest index should have largest value.
       void insert(int arr[], int n)
     {
@@ -44,4 +44,4 @@
         insert(arr, n);
         insertionSort(arr, n-1);
     }
- ```cpp
+ ```
