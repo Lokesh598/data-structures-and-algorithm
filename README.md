@@ -44,4 +44,6 @@
       7. find length of the list
       8. find middle node of list
       9. revese linked list
-      10. 
+      
+  - ## Binary Tree
+  
