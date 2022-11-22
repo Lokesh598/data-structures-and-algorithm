@@ -17,5 +17,4 @@
   2. Min Heap Tree
      In the give ACBT or CBT at every node root is minimum or equal comparing its children then it is Min Heap Tree.
     
-
-![Max-Heap-new](https://user-images.githubusercontent.com/63910828/203390772-60b3249c-1c14-4684-9755-dd05b3cbce81.svg)
+![400px-Max-Heap-new svg](https://user-images.githubusercontent.com/63910828/203391011-dddddf52-9b2d-4196-aabe-222198f9212b.png)
