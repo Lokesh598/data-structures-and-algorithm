@@ -13,11 +13,15 @@
       Doubly Linked list one of the application of Binary Tree.
   
  # Heap Tree
-   1. Max Heap Tree 2. Min Heap Tree
+       1. Max Heap Tree 
+       2. Min Heap Tree
 
-  1. Max Heap Tree
-     In the given ACBT or CBT at every node root is maximum or equal comparing its children then it is Max Heap Tree.
+       1. Max Heap Tree
+          In the given ACBT or CBT at every node root is maximum or equal comparing its children then it is Max Heap Tree.
      
-  2. Min Heap Tree
-     In the give ACBT or CBT at every node root is minimum or equal comparing its children then it is Min Heap Tree.
-    
+       2. Min Heap Tree
+          In the give ACBT or CBT at every node root is minimum or equal comparing its children then it is Min Heap Tree.
+        
+       Priority Queue and Binary Heap
+       Min Heap and Max Heap Implementation
+      
