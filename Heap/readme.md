@@ -6,6 +6,10 @@
      
   ### What is Binary Tree??
       
+      Binary Tree Representation:
+                  1. Array
+                  2. Linked List
+![400px-Max-Heap-new svg](https://user-images.githubusercontent.com/63910828/203391011-dddddf52-9b2d-4196-aabe-222198f9212b.png)
       Doubly Linked list one of the application of Binary Tree.
   
  # Heap Tree
@@ -17,4 +21,3 @@
   2. Min Heap Tree
      In the give ACBT or CBT at every node root is minimum or equal comparing its children then it is Min Heap Tree.
     
-![400px-Max-Heap-new svg](https://user-images.githubusercontent.com/63910828/203391011-dddddf52-9b2d-4196-aabe-222198f9212b.png)
