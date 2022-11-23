@@ -64,6 +64,6 @@
              
              
 ##### Heap Data structure Application
-###### Heap is used while immplementing priority queue
-###### Dijkstra's Algorithm
-###### Heap Sort
+###### 1. Heap is used while immplementing priority queue
+###### 2. Dijkstra's Algorithm
+###### 3. Heap Sort
