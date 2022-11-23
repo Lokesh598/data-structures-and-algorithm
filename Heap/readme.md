@@ -32,4 +32,12 @@
         
        Priority Queue and Binary Heap
        Min Heap and Max Heap Implementation
+       
+## Operations On Heap
+    
+### Insertion, Deletion and Build Heap
+
+#### Heapify
+     Heapify is the process of creating a heap data structure from a binary tree. It is used to create a Min-Heap or a Max-Heap.
+
       
