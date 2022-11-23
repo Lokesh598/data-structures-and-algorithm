@@ -43,8 +43,19 @@
 ##### Insertion(max-heapify method): 
       let we want to insert 100 element in Binary Tree. So max-heapify means root should be greater than childrens.
       So suppose our tree contains all node are leser than 100th node so it will be the root of given binary tree. 
-      1. total comparision = logn (beacuse height of binary tree)
+      1. total comparision = logn (beacuse height of complete binary tree)
       2. total no of swaps = logn 
       every time comarision and swaps = 2logn == O(logn)
-
+###### Time complexity 
+       Insertion time in max heap or min heap with n-elements will take => O(logn)[wc, AC] and O(1) [BC].
+       
+###### Deletion 
+       using max-heapify method we can delete maximum element with replacement by last leaf node.
+       1. Total comparision = 2logn 
+       2. Total swap = logn
+       total = 3logn == O(logn)
+       
+###### Build-Heap (Building Heap)
+       creating Max Heap pr Min Heap with n element with O(n) time in every case.
+  
       
