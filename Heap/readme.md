@@ -18,6 +18,14 @@
 
        1. Max Heap Tree
           In the given ACBT or CBT at every node root is maximum or equal comparing its children then it is Max Heap Tree.
+          
+          ***
+          Max Heap Tree, Array Advantage:
+          
+          finding maximum element in constant time.[O(1) every case]
+          
+          finding minimum element (Normal array)
+          use Selection Sort (first pass) [O(n) every case] and min no. of the leaf node(n/2) so total no. of comparision(n/2-1).
      
        2. Min Heap Tree
           In the give ACBT or CBT at every node root is minimum or equal comparing its children then it is Min Heap Tree.
