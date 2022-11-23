@@ -39,5 +39,12 @@
 
 #### Heapify
      Heapify is the process of creating a heap data structure from a binary tree. It is used to create a Min-Heap or a Max-Heap.
+     
+##### Insertion(max-heapify method): 
+      let we want to insert 100 element in Binary Tree. So max-heapify means root should be greater than childrens.
+      So suppose our tree contains all node are leser than 100th node so it will be the root of given binary tree. 
+      1. total comparision = logn (beacuse height of binary tree)
+      2. total no of swaps = logn 
+      every time comarision and swaps = 2logn == O(logn)
 
       
