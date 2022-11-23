@@ -58,4 +58,12 @@
 ###### Build-Heap (Building Heap)
        creating Max Heap pr Min Heap with n element with O(n) time in every case.
   
-      
+       Build-Heap-Algo(arr, n) {
+          for ( i = n/2(take flor); i>= 1; i-- ) {
+             maxHeapify(i);
+             
+             
+##### Heap Data structure Application
+###### Heap is used while immplementing priority queue
+###### Dijkstra's Algorithm
+###### Heap Sort
