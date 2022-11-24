@@ -35,7 +35,15 @@
        
 ## Priority Queue: 
    Priority Queue is a Data Structure that uses concepts of Heaps, but built on top of vector or dynamic array.
-      
+   
+suntax of priority queue__
+```c++
+priority_queue<int> pq;
+       
+       In C++, priority queue uses max heap by default. but for min heap we have to use a syntax ..   
+```c++
+       priority_queue<int, vector<int>, greater<int>> pq;
+```
        
 ## Operations On Heap
     
