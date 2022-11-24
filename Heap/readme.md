@@ -38,10 +38,10 @@
    
 suntax of priority queue__
 ```c++
-priority_queue<int> pq;
+       priority_queue<int> pq;
        
-       In C++, priority queue uses max heap by default. but for min heap we have to use a syntax ..   
-```c++
+      // In C++, priority queue uses max heap by default. but for min heap we have to use a syntax ..   
+
        priority_queue<int, vector<int>, greater<int>> pq;
 ```
        
