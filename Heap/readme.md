@@ -33,6 +33,10 @@
        Priority Queue and Binary Heap
        Min Heap and Max Heap Implementation
        
+## Priority Queue: 
+   Priority Queue is a Data Structure that uses concepts of Heaps, but built on top of vector or dynamic array.
+      
+       
 ## Operations On Heap
     
 ### Insertion, Deletion and Build Heap
