@@ -7,6 +7,7 @@ int main() {
   pq.push(10);
   pq.push(15);
   pq.push(5);
+  cout<<"hello priority";
   cout<<pq.size()<<" ";
   cout<<pq.top() <<" ";
   //heapify
