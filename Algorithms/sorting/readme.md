@@ -46,3 +46,19 @@ cpp
         insertionSort(arr, n-1);
     }
  cpp
+
+
+
+## External Sorting
+External sorting is a term for a class of sorting algorithms that can handle massive amounts of data. External sorting is required when the data being sorted does not fit into the main memory of a computing device (usually RAM) and instead, must reside in the slower external memory (usually a hard drive).
+
+### When to use External Sorting
+When the unsorted data is too large to perform sorting in computer internal memory then we use external sorting.
+In external sorting we use the secondary device. in a secondary storage device, we use the tape disk array. 
+when data is large like in merge sort and quick sort.
+Quick Sort: best average runtime.
+Merge Sort: Best Worse case time.
+To perform sort-merge, join operation on data.
+To perform order by the query.
+To select duplicate element.
+Where we need to take large input from the user.
