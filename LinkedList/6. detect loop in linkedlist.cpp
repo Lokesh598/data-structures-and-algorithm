@@ -1,3 +1,5 @@
+floyed's cycle algorithm
+
 class Solution
 {
     public:
