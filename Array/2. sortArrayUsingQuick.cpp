@@ -1,3 +1,5 @@
+//Quick Sort is a Divide and Conquer algorithm that works by selecting a pivot element and partitioning the array around it.
+//The pivot is placed in its correct sorted position, and then the algorithm is recursively applied to the subarrays on either side of the pivot.
 #include<iostream>
 
 using namespace std;
@@ -24,7 +26,7 @@ int partition(int arr[], int p, int q)
         }
     }
     swap(arr[i], arr[p]);
-    return i;
+    return i; //index of pivot element
 }
 
 void quickSort(int arr[], int left, int right) {
