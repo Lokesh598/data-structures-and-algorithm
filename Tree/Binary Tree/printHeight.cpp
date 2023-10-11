@@ -1,14 +1,11 @@
 // height of tree
 
-int printHeight(Node *root) {
-  
-  // boundry cases
-  if(root == NULL) 
-    return 1;
-  // go left
-  int hl = 1 + printHeight(root->left);
-  // go right
-  int hr = 1 + printHeight(root->right);
-  
-  int h = max(hl, hr);
-}
+    int height(struct Node* node){
+        // code here 
+        if(node == nullptr) return 0;
+        if(node->left == nullptr && node->right == nullptr) 
+            return 1;
+        int l = height(node->left);
+        int r = height(node->right);
+        return 1+max(l, r);
+    }
