@@ -76,6 +76,7 @@ suntax of priority queue__
              
              
 ##### Heap Data structure Application
-###### 1. Heap is used while immplementing priority queue
+###### learn from abdul bari -> https://www.youtube.com/watch?v=HqPJF2L5h9U
+###### 1. Heap is used while implementing priority queue
 ###### 2. Dijkstra's Algorithm
 ###### 3. Heap Sort
