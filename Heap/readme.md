@@ -1,16 +1,16 @@
 # Heap
-  A heap is a special tree-based data structure in which the tree is the complete binary tree.
+  A heap is a special tree-based data structure in which the tree is the complete binary tree or almost complete binary tree.
   
-  ## What is Complete Binary Tree or Almost Complete Binary Tree??
-     So first we have to know what is Binary Tree.
+  ## What is a Complete Binary Tree or Almost Complete Binary Tree??
+     So first we have to know what a binary tree is.
      
-  ### What is Binary Tree??
+  ### What is a Binary Tree??
       
       Binary Tree Representation:
                   1. Array
                   2. Linked List
 ![400px-Max-Heap-new svg](https://user-images.githubusercontent.com/63910828/203391011-dddddf52-9b2d-4196-aabe-222198f9212b.png)
-      Doubly Linked list one of the application of Binary Tree.
+      Doubly Linked lists one of the applications of Binary Tree.
   
  # Heap Tree
        1. Max Heap Tree 
