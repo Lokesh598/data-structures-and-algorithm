@@ -5,13 +5,13 @@ Example 1:
 Input: nums = [4,3,2,7,8,2,3,1]
 Output: [5,6]
 
-//solution : naive
+//solution : naive (boolean array
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> mark(n+1, 0);
+        vector<int> mark(n+1, 0); //boolean array
         vector<int> res;
         for(int i = 0; i < n; i++) {
             mark[nums[i]]++; 
