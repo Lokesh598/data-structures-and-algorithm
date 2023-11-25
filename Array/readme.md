@@ -12,4 +12,7 @@ Array is collection of elements of similer data type.
  
  dynamically allocate array
  4. int *arr = new arr[5];
+
+ 5. vector<int> arr;
+ 6. vector<int> arr(3, 0);
  ```
