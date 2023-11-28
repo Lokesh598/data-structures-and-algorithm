@@ -15,3 +15,5 @@ bool searchMatrix(vector<vector<int>>& matrix, int target) {
         return false;
     }
 ```
+
+2. efficient, using binary search 
