@@ -15,8 +15,24 @@ bool searchMatrix(vector<vector<int>>& matrix, int target) {
         return false;
     }
 ```
+2. 
+	bool searchMatrix(vector<vector<int>>& matrix, int target) {
+        //linear search
+        int m = matrix.size();
+        int n = matrix[0].size();
+        
+        int first = 0, last = n - 1;
+        while ( first < m && last >= 0) {
+            if (matrix[first][last] == target) return true;
 
-2. efficient, using binary search 
+            else if (matrix[first][last] > target) last--;
+                
+            else first++;
+        }
+        return false;
+ }
+
+3. efficient, using binary search 
 
 class Solution {
 public:
