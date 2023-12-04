@@ -26,18 +26,11 @@ void topologicalSort(vector<int> adj[], int V)
         }
     }
     
-    // while(st.empty()==false){
-    //     int u=st.top();
-    //     st.pop();
-    //     cout<<u<<" ";
-    // }
-    for(int i = 0; i < V; i++) {
-        if(visited[i] == false)
-            // return false;
-            cout<<"false";
-    }
-    cout<<"true";
-   
+    while(st.empty()==false){
+        int u=st.top();
+        st.pop();
+        cout<<u<<" ";
+    }   
 }
 
 void addEdge(vector<int> adj[], int u, int v){
