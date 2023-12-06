@@ -12,7 +12,7 @@ class Solution {
 	        }
 	    }
 	    queue<int> q;
-	    
+	    //push all vertices, with indegree 0
 	    for(int i = 0; i < V; i++) {
 	        if(indegree[i] == 0)
 	            q.push(i);
