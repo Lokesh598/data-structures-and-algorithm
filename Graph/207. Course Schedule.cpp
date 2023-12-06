@@ -1,4 +1,5 @@
 //course scedule
+//this solution same as "cycle detection in a directed graph"
 
 Input: numCourses = 2, prerequisites = [[1,0]]
 Output: true
