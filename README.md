@@ -18,6 +18,7 @@
          - merge sort
          - quick sort
          - heap sort
+         - count sort
 
       6. find min and max elements
       7. find maximum subarray sum
