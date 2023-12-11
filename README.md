@@ -48,6 +48,7 @@
       9. revese linked list
       
   - ## Binary Tree
+  -   ### Binary Search Tree
 
   - ## Graph
   
