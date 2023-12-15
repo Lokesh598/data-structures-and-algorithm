@@ -47,9 +47,14 @@
       8. find middle node of list
       9. revese linked list
       
-  - ## Binary Tree
+  - ## Tree
+  -   ### Binary Tree
   -   ### Binary Search Tree
 
   - ## Graph
+  -   ### Types of Graph
+  -       1. Undirected 2. Directed
+  -   ### Graph Representation
+  -       1. Adjacency Matrix 2. Adjacency List
   
 ![image](https://github.com/Lokesh598/data-structures-and-algorithm/assets/63910828/9ec4211d-b505-4281-b221-e9b9800d53fc)
