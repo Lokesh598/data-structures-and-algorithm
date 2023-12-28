@@ -50,6 +50,7 @@
   - ## Tree
     - Binary Tree
     - Binary Search Tree
+    - Red Black Tree
 
   - ## Graph
   -   ### Types of Graph
