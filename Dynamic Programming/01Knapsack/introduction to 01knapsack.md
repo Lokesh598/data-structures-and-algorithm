@@ -16,3 +16,10 @@ other knapsack cryptosystems.
     2. Bounded knapsack
     3. Unbounded knapsack
 
+Standard Problem-
+1. 01knapsack
+2. Subset Sum Problem
+3. Partition Equal Subset sum problem
+4. Minimum Sum Partition
+5. Partion with given difference
+6. Target sum
