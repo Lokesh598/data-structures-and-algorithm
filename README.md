@@ -59,6 +59,7 @@
   -       1. Adjacency Matrix 2. Adjacency List
 
   - ## Dynamic Programming
+    - 01 Knapsack
   
 ![image](https://github.com/Lokesh598/data-structures-and-algorithm/assets/63910828/9ec4211d-b505-4281-b221-e9b9800d53fc)
 
