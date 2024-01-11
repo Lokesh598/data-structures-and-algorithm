@@ -8,6 +8,7 @@
       2. delete an element from the array
          - linear search
          - binary search
+         - hashing
       4. search element in the array
       5. insert an element in array
       6. sort the array
