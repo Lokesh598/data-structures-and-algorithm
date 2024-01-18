@@ -1,6 +1,5 @@
 # data-structures-and-algorithm
 
-
 ## List of standard questions 
   
  - ## Array
