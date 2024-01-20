@@ -60,8 +60,8 @@
 
   - ## Dynamic Programming
     - 01 Knapsack
-    - Longest common subsequence
-  
+    - Largest common subsequence
+    - Longest increasing subsequence
 ![image](https://github.com/Lokesh598/data-structures-and-algorithm/assets/63910828/9ec4211d-b505-4281-b221-e9b9800d53fc)
 
 ![image](https://github.com/Lokesh598/data-structures-and-algorithm/assets/63910828/6ee91c8b-5390-483c-b52d-013d2ac50d12)
