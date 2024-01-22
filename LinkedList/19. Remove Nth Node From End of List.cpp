@@ -8,6 +8,10 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+1. naive solution -
+    calculate length of the list, then run loop length-n times. then *cur.next = *cur.next.next; and return head.
+
+2. optimized solution - 
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
