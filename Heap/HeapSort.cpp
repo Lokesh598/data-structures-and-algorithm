@@ -25,7 +25,7 @@ class Solution
     //Function to build a Heap from array.
     void buildHeap(int arr[], int n)  
     { 
-    // Your Code Here
+        // we are not checking for leaf node, so we are elemenating those. and using i = n/2-1 for non leaf nodes.
         for(int i = n/2-1; i>=0;i--) {
             heapify(arr, n, i);
         }
