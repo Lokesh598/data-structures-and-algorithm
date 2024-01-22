@@ -1,3 +1,4 @@
+The task is to left-shift the linked list by k nodes
 
 class Solution
 {
