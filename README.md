@@ -57,6 +57,8 @@
   -       1. Undirected 2. Directed
   -   ### Graph Representation
   -       1. Adjacency Matrix 2. Adjacency List
+  -   ### Topological sort
+  -       Directed acyclic graph
 
   - ## Dynamic Programming
     - 01 Knapsack
