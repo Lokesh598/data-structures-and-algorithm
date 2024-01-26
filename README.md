@@ -57,6 +57,7 @@
   -       1. Undirected 2. Directed
   -   ### Graph Representation
   -       1. Adjacency Matrix 2. Adjacency List
+  -   ### BFS and DFS
   -   ### Topological sort
   -       Directed acyclic graph
 
