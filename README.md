@@ -50,6 +50,7 @@
   - ## Tree
     - Binary Tree
     - Binary Search Tree
+    - AVL Tree
     - Red Black Tree
 
   - ## Graph
