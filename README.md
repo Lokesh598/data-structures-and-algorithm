@@ -56,6 +56,7 @@
   - ## Graph
   -   ### Types of Graph
   -       1. Undirected 2. Directed
+  -       1. Cyclic 2. Acyclic
   -   ### Graph Representation
   -       1. Adjacency Matrix 2. Adjacency List
   -   ### BFS and DFS
