@@ -62,6 +62,7 @@
   -   ### BFS and DFS
   -   ### Topological sort
   -       Directed acyclic graph
+  -   #### Prims and Qrushkal
 
   - ## Dynamic Programming
     - 01 Knapsack
