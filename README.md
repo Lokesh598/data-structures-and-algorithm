@@ -63,6 +63,7 @@
   -   ### Topological sort
   -       Directed acyclic graph
   -   #### Prims and Qrushkal
+  -   #### Dijkstra Algorithm
 
   - ## Dynamic Programming
     - 01 Knapsack
