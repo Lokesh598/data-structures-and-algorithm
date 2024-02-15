@@ -1,3 +1,6 @@
+Maximum sum increasing subsequence.
+example: 
+    [1, 3, 5, 4, 7] = lis's [1, 3, 5, 7] and [1, 3, 4,7] max of both is 1+3+5+7 = 16 have to return.
 class Solution {
 public:
     int bestTeamScore(vector<int>& scores, vector<int>& ages) {
