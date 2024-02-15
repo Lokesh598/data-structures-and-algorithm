@@ -23,3 +23,4 @@ Standard Problem-
 4. Minimum Sum Partition
 5. Partion with given difference
 6. Target sum
+7. House Robber
