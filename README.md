@@ -1,6 +1,6 @@
 # data-structures-and-algorithm
 
-## List of standard questions 
+## List of standard question
   
  - ## Array
       1. Reverse Array 
