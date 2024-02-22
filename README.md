@@ -1,4 +1,4 @@
-# data-structures-and-algorithm
+# data-structures-and-algorithms
 
 ## List of standard question
   
