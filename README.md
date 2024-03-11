@@ -18,6 +18,7 @@
          - quick sort
          - heap sort
          - count sort
+         - tree sort
 
       6. find min and max elements
       7. find maximum subarray sum
