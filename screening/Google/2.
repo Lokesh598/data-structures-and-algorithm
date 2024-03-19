@@ -1,0 +1,4 @@
+Each node N corresponds to an individual.
+If N reports to M (i.e., M is N's boss), then M is the parent of N.
+If P reports to N (i.e., N is P's boss), then P is the child of N.
+At Google, an individual's "employee score" is defined as the total number of people they supervise, including themselves.
