@@ -51,7 +51,7 @@
   - ## Tree
     - Binary Tree
     - Binary Search Tree
-    - AVL Tree
+    - AVL Tree (Self Balanced Binary Search Tree)
     - Red Black Tree
 
   - ## Graph
