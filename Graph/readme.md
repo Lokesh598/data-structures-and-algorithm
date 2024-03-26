@@ -15,12 +15,16 @@ The list can be Linked list and vector or ArrayList. but we should use Vector be
       ![images](https://user-images.githubusercontent.com/63910828/184867778-19c3a59d-489d-4f3c-b610-b7656295c8be.png)
 
 Detect Cycle in Undirected Graph
+
       - bfs - using parent
       - dfs - using parent
 
 Detect cycle in Directed Graph
+
       - bfs - using indegree[]
       - dfs - using visited array + pathVisited Array
+      in the recursive call tree, if you see an edge from one of the decedent to one of the ancestor, which is currently active in the recursive tree, 
+      then here is a cycle.
 
 ## Topological sort - 
       Acyclic and Directed graph
