@@ -1,10 +1,15 @@
 # Graph
-Graph is non-linear data structre. 
+Graph is a non-linear data structure. 
 
-## Can be represented two ways...
-### 1. Adjency matrix
-### 2. Adjency List.
+## Can be represented in two ways...
+### 1. Adjacency matrix
+### 2. Adjacency List.
 
+## Types of Graph
+### 1. Undirected Graph
+### 2. Directed Graph
+### 3. Directed Weighted Graph
+### 4. Bipartite Graph
 The list can be Linked list and vector or ArrayList. but we should use Vector because vector has a cache-friendly nature.
       
       ![images](https://user-images.githubusercontent.com/63910828/184867778-19c3a59d-489d-4f3c-b610-b7656295c8be.png)
