@@ -26,14 +26,14 @@ Kahns Algorithm cyclic or not
 2. create a queue, q
 3. Add all 0 indegree vertices to the q
 4. count = 0
-5. while ( q is not empty)
-   {
-         a. u = q.pop()
-         b. for every adjacent v of u
-               1. Reduce indegree of v by 1
-               2. If indegree of v becomes 0, push v to the q
-         c. count++;
-   }
+5.       while ( q is not empty)
+         {
+               a. u = q.pop()
+               b. for every adjacent v of u
+                     1. Reduce indegree of v by 1
+                     2. If indegree of v becomes 0, push v to the q
+               c. count++;
+         }
 6. return (count != V)
 
 
