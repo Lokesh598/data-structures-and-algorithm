@@ -77,5 +77,10 @@
       
 ![image](https://github.com/Lokesh598/data-structures-and-algorithm/assets/63910828/9ec4211d-b505-4281-b221-e9b9800d53fc)
 
+200 medium problems solved 27th march 2024. now target for next 100 medium problems.
+
+![image](https://github.com/Lokesh598/data-structures-and-algorithm/assets/63910828/42eaa8db-81cf-462b-89ad-44aae4839b44)
+
+
 ![image](https://github.com/Lokesh598/data-structures-and-algorithm/assets/63910828/6ee91c8b-5390-483c-b52d-013d2ac50d12)
 
