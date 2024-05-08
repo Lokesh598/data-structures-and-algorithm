@@ -35,6 +35,8 @@
        
 ## Priority Queue: 
    Priority Queue is a Data Structure that uses concepts of Heaps, but built on top of vector or dynamic array.
+   time complexity - 
+   adding single element in pq, takes logn time so for n elements it will be nlogn time.
    
 suntax of priority queue__
 ```c++
