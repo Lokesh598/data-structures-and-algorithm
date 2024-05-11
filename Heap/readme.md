@@ -1,5 +1,7 @@
 # Heap
   A heap is a special tree-based data structure in which the tree is the complete binary tree or almost complete binary tree.
+
+  A heap is a useful data structure when it is necessary to repeatedly remove the object with the lowest (or highest) priority, or when insertions need to be interspersed with removals of the objects.
   
   ## What is a Complete Binary Tree or Almost Complete Binary Tree??
      So first we have to know what a binary tree is.
