@@ -11,6 +11,8 @@
       4. search element in the array
       5. insert an element in array
       6. sort the array
+           ![image](https://github.com/Lokesh598/data-structures-and-algorithm/assets/63910828/2c019928-1582-4194-b89e-a1de546e6bc6)
+
          - insertion sort
          - selection sort
          - bubble sort
