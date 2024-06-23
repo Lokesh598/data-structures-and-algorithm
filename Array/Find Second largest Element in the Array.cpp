@@ -1,3 +1,24 @@
+//optimized
+
+class SecondLargest {
+
+    public static void main(String[] args) {
+        int[] arr = new int[]{1,2,6,3,4};
+        int first = Integer.MIN_VALUE;
+        int second = Integer.MIN_VALUE;
+        for (int value : arr) {
+            if (value > first) {
+                second = first;
+                first = value;
+            } else if (value > second && value != first) {
+                second = value;
+            }
+        }
+        System.out.println(second);
+    }
+}
+
+
 class Solution{
 public:	
 	// Function returns the second
