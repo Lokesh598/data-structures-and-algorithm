@@ -106,6 +106,7 @@ n > 10^8 | O(log n) or O(1)
 ![image](https://github.com/Lokesh598/data-structures-and-algorithm/assets/63910828/42eaa8db-81cf-462b-89ad-44aae4839b44)
 ![image](https://github.com/Lokesh598/data-structures-and-algorithm/assets/63910828/c51e1398-9346-4636-aa2e-be39f7136c9d)
 400 problems solved
+![image](https://github.com/user-attachments/assets/94890c81-bc44-4c04-9ebf-0ce9c5082186)
 
 
 
